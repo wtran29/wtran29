@@ -4,12 +4,12 @@ Hi 👋 My name is William Tran
 Python Software Engineer
 ------------------------
 
-Committed and dedicated software developer focused in building enterprise application software. I have experience in programming with Python, C#, JavaScript and Java. I look forward to working with innovative developers and improving my craft. I seek to apply my development experience in Banking and 10+ years of Finance and Accounting experience to development within the FinTech industry. However, I welcome all opportunities that may come and the challenges it presents. I always value the opportunity to learn, grow and contribute to a positive and productive environment.
+Committed and dedicated software engineer focused in building enterprise application software. I have experience in programming with Python, C#, JavaScript, and Java. I look forward to working with innovative developers and improving my craft. I seek to apply my development experience in Banking and 10+ years of Finance and Accounting experience within the FinTech industry. However, I welcome all opportunities that may come and the challenges it presents. I always value the opportunity to learn, grow and contribute to a positive and productive environment.
 
 * 🌍  I'm based in Los Angeles County
 * 🖥️  See my portfolio at [wtran.me](http://wtran.me)
 * ✉️  You can contact me at [wtran4hire@gmail.com](mailto:wtran4hire@gmail.com)
-* 🧠  I'm learning web3, blockchain, ML and AI technologies
+* 🧠  I'm learning Golang, web3, blockchain, ML and AI technologies
 * 🤝  I'm open to collaborating on Python/Django/Flask projects
 * ⚡  I also have experience in RPA solutions
 
